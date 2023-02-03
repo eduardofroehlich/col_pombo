@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Signika:wght@500&display=swap');
+body {
+    font-family: 'Signika', sans-serif;
+    background-image: url(../web/assets/rdr2-open-world-blogroll-1525439221719_160w.jpg);
+}
+
+.center {
+    position: absolute;
+    left: 85%;
+    top: 20%;
+    transform: translate(-60%, -50%);
+}
